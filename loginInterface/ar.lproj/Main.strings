@@ -1,0 +1,33 @@
+
+/* Class = "UITextField"; placeholder = "Enter Your Password"; ObjectID = "30s-fe-DhF"; */
+"30s-fe-DhF.placeholder" = "Enter Your Password";
+
+/* Class = "UILabel"; text = "Log In"; ObjectID = "C9f-7f-SaC"; */
+"C9f-7f-SaC.text" = "Log In";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "FsO-Bs-k1R"; */
+"FsO-Bs-k1R.text" = "Email";
+
+/* Class = "UIButton"; normalTitle = "Log in "; ObjectID = "IVX-GW-F8B"; */
+"IVX-GW-F8B.normalTitle" = "Log in ";
+
+/* Class = "UITextField"; placeholder = "Enter Your Email"; ObjectID = "Myh-EN-67A"; */
+"Myh-EN-67A.placeholder" = "Enter Your Email";
+
+/* Class = "UIButton"; normalTitle = "Forgot your password ?"; ObjectID = "Ph5-OL-uny"; */
+"Ph5-OL-uny.normalTitle" = "Forgot your password ?";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "eTT-uF-yA1"; */
+"eTT-uF-yA1.text" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Join Google"; ObjectID = "jOX-Vv-Y1J"; */
+"jOX-Vv-Y1J.normalTitle" = "Join Google";
+
+/* Class = "UILabel"; text = "Keep Me Logged In"; ObjectID = "k97-Ai-Xjl"; */
+"k97-Ai-Xjl.text" = "Keep Me Logged In";
+
+/* Class = "UIButton"; normalTitle = "Help with Logging in"; ObjectID = "kz6-2R-kID"; */
+"kz6-2R-kID.normalTitle" = "Help with Logging in";
+
+/* Class = "UILabel"; text = "Don't have an account ?"; ObjectID = "zEt-aK-RMr"; */
+"zEt-aK-RMr.text" = "Don't have an account ?";
